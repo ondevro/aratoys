@@ -4,5 +4,8 @@ THIS REPOSITORY IS NOT A FINAL PRODUCT !!!
 
 sandbox.ondev.ro/aratoys - demo for demonstration purpose only
 
+Email:
 admin@admin.com
+
+Password:
 administrator
